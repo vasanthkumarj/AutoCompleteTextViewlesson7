@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView - lesson 7</string>
+    <string name="enter_country">Enter country</string>
+
+    <string-array name="country_list">
+
+        <item>Afganistan</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>Usa</item>
+        <item>Pakistan</item>
+        <item>China</item>
+
+    </string-array>
+</resources>
